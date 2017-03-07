@@ -21,6 +21,6 @@ galaxy_info:
       versions:
       - 7
 
-  galaxy_tags: ssh,sshd,ssh.socket
+  galaxy_tags: ['ssh','sshd','ssh.socket','systemd']
 
 dependencies: []
