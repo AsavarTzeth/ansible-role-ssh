@@ -28,7 +28,7 @@ Example Playbook
 
     - hosts: all
       roles:
-        - role: AsavarTzeth.ansible-role-ssh
+        - role: AsavarTzeth.ssh
           ssh_port: 22
           ssh_socket_bind_device: eth0
           ssh_users: foobar1 foobar2
